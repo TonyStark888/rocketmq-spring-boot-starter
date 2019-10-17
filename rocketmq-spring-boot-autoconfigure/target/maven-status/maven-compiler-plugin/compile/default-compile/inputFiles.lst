@@ -1,0 +1,13 @@
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\base\AbstractMQConsumer.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\base\MessageExtConst.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\config\RocketMQAnnotationScan.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\base\MessageBuilder.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\base\AbstractMQPushConsumer.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\base\AbstractMQTransactionProducer.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\config\MQConfig.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\config\MQProducer.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\base\DelayTimeLevel.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\util\JsonUtil.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\annotation\MQTransactionProducer.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\annotation\MQConsumer.java
+D:\workspace-demo\rocketmq\rocketmq-spring-boot-autoconfigure\src\main\java\com\hy\demo\rocketmq\config\MQProperties.java

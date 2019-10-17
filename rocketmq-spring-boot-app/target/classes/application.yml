@@ -1,0 +1,5 @@
+spring:
+  rocketmq:
+    namesrv: 192.168.17.138:9876
+    producerGroup: demo
+    consumerGroup: demo
